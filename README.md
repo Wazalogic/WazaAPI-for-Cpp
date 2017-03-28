@@ -1,2 +1,2 @@
 # WazaAPI-for-Cpp
-Waza Application Programing Interface for C++
+The Waza Application Programing Interface for C++
